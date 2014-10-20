@@ -16,7 +16,7 @@ License
 
 See `LICENSE`_ (`GNU General Public License, version 2 (GPL-2.0)`_).
 
-.. _`LICENSEt`:
+.. _`LICENSE`:
    https://github.com/ClockworkNet/vim-apparmor/blob/master/LICENSE
 .. _`GNU General Public License, version 2 (GPL-2.0)`:
    http://opensource.org/licenses/GPL-2.0
