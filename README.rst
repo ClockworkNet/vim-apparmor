@@ -1,7 +1,7 @@
 Overview
 ========
 
-AppArmor vim syntax and file detection for use with `gmarik/Vundle.vim`_.
+Vim ftdetect and syntax for AppArmor for use with `gmarik/Vundle.vim`_.
 
 Syntax file from ``apparmor-utils_2.8.98-0ubuntu2_amd64.deb``. See
 `Ubuntu – Package Search Results -- apparmor-utils`_ for most recent version.
